@@ -3,7 +3,7 @@
 
 Завданн явиконано відповідно до ТЗ - https://github.com/goitacademy/javascript-homework/tree/main/homework-07
 
-Технології:
+## Технології:
  - HTML;
  - CSS;
  - JS;
